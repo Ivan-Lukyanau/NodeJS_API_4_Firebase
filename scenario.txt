@@ -1,0 +1,14 @@
+// we use it as POC for uniq User Value
+Install app
+Open app
+Click btn "Get personal key"
+Yo can see your personal key on the screen
+You remember the key
+Remove app from device and install it again
+You click on btn "Get personal key"
+You can see you key that is the same as you'ca seen before
+
+
+// api/words/userId - GET - getting all words 
+// api/words - POST - from body get a word object and send it into firebase
+// api/words/bulk - POST - from body get an array of words and send them into firebase

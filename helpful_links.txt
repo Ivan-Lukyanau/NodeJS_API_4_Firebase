@@ -1,0 +1,31 @@
+
+// database firebase console
+https://console.firebase.google.com/u/0/project/pepper-879f1/database/data/
+
+// firebase api
+https://firebase.google.com/docs/admin/setup#add_the_sdk
+
+// save data
+https://firebase.google.com/docs/database/admin/save-data
+
+// https://console.firebase.google.com/u/0/
+
+// retreive data
+https://firebase.google.com/docs/database/admin/retrieve-data
+
+// http://javascript.tutorialhorizon.com/2014/09/01/understanding-nodejs-module-exports-and-require/
+
+// doca
+https://www.firebase.com/docs/web/guide/setup.html
+
+// basic tutorial
+https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a
+
+// ODCS
+https://firebase.google.com/docs/reference/js/firebase.database.Query
+https://firebase.google.com/docs/database/admin/save-data
+https://firebase.google.com/docs/database/admin/save-data#section-update
+https://firebase.google.com/docs/database/admin/retrieve-data
+
+// express docs
+http://expressjs.com/ru/guide/using-middleware.html

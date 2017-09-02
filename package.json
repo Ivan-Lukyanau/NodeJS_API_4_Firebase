@@ -1,0 +1,21 @@
+{
+  "name": "nodejsapi4firebase",
+  "version": "1.0.0",
+  "description": "This project serves to use firebase as a storage for words we have in front app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Ivan_Lukyanau",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "firebase": "^4.2.0",
+    "firebase-admin": "^5.0.1",
+    "firebase-rest": "^1.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
